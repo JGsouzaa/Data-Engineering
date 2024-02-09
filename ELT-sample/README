@@ -1,0 +1,3 @@
+This is a ELT project made using Docker, Airflow and Airbyte.
+
+Also used Python for scripts, SQL for data manipulation, Bash to server commands, Postgres as SGBD and dbt to made data transformations with macros
